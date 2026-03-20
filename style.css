@@ -101,7 +101,7 @@ body {
     align-items: center;
     background-color: #ffffff;
     width: 65%;
-    min-width: 20%;
+    min-width: clamp(15%, 20%, 20%);
     margin-top: 15px;
 }
 
